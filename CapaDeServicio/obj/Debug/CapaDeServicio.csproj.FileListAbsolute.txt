@@ -1,0 +1,9 @@
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeServicio\bin\Debug\CapaDeServicio.dll
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeServicio\bin\Debug\CapaDeServicio.pdb
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeServicio\bin\Debug\CapaDeDominio.dll
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeServicio\bin\Debug\CapaDeDominio.pdb
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeServicio\obj\Debug\CapaDeServicio.csproj.AssemblyReference.cache
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeServicio\obj\Debug\CapaDeServicio.csproj.CoreCompileInputs.cache
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeServicio\obj\Debug\CapaDeServicio.csproj.CopyComplete
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeServicio\obj\Debug\CapaDeServicio.dll
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeServicio\obj\Debug\CapaDeServicio.pdb

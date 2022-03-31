@@ -1,0 +1,6 @@
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeInfrestructura\bin\Debug\CapaDeInfrestructura.dll
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeInfrestructura\bin\Debug\CapaDeInfrestructura.pdb
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeInfrestructura\obj\Debug\CapaDeInfrestructura.csproj.AssemblyReference.cache
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeInfrestructura\obj\Debug\CapaDeInfrestructura.csproj.CoreCompileInputs.cache
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeInfrestructura\obj\Debug\CapaDeInfrestructura.dll
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeInfrestructura\obj\Debug\CapaDeInfrestructura.pdb

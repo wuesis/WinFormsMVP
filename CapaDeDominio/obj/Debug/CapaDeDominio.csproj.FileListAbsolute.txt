@@ -1,0 +1,6 @@
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeDominio\bin\Debug\CapaDeDominio.dll
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeDominio\bin\Debug\CapaDeDominio.pdb
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeDominio\obj\Debug\CapaDeDominio.csproj.AssemblyReference.cache
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeDominio\obj\Debug\CapaDeDominio.csproj.CoreCompileInputs.cache
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeDominio\obj\Debug\CapaDeDominio.dll
+C:\Users\Itsvan Moreno\source\repos\WindowsFormsApp\CapaDeDominio\obj\Debug\CapaDeDominio.pdb

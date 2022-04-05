@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace CapaDeServicio.ServiciosEnComun
 {
-    public class ModeloRevisionDeDatos : IRevisionModeloDeDatos
+    public class ModelDataAnotationCheck : IRevicionDataAnotations
     {
-        public void ValidaModelo<TDomainModel>(TDomainModel domainModel)
+        public void ValidaModeloDataAnotations<TDomainModel>(TDomainModel domainModel)
         {
             ICollection<ValidationResult> validationResultsList = new List<ValidationResult>();
 

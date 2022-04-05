@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDeServicio", "CapaDeSer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDeInfrestructura", "CapaDeInfrestructura\CapaDeInfrestructura.csproj", "{CF2466AC-7ED8-4207-8E34-E36C2A47E9F7}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.vbproj", "{F6C83119-63DD-4900-8AB4-1965376E318A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CF2466AC-7ED8-4207-8E34-E36C2A47E9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF2466AC-7ED8-4207-8E34-E36C2A47E9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF2466AC-7ED8-4207-8E34-E36C2A47E9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C83119-63DD-4900-8AB4-1965376E318A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C83119-63DD-4900-8AB4-1965376E318A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C83119-63DD-4900-8AB4-1965376E318A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C83119-63DD-4900-8AB4-1965376E318A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

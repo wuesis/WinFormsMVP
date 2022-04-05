@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace CapaDeServicio.ServicioDepartamento
 {
-    interface IDepartamentService
+    interface IDepartamentServices
     {
-        void ValidateModel(Departamento departamento);
+        void ValidateModel(Departament departamento);
     }
 }

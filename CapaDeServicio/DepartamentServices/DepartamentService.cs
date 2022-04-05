@@ -8,44 +8,44 @@ using System.Threading.Tasks;
 
 namespace CapaDeServicio.ServicioDepartamento
 {
-    public  class ServicioDepartamento: IDepartamentService, IDepartamentoRepository
+    public  class ServicioDepartamento: IDepartamentServices, IDepartamentRepository
     {
-        private IDepartamentoRepository _departamentoRepository;
+        private IDepartamentRepository _departamentoRepository;
 
-        private IRevisionModeloDeDatos _revisionModeloDeDatos;
+        private IRevicionDataAnotations _revisionModeloDeDatos;
 
-        public ServicioDepartamento(IDepartamentoRepository departamentoRepository, IRevisionModeloDeDatos revisionModeloDeDatos)
+        public ServicioDepartamento(IDepartamentRepository departamentoRepository, IRevicionDataAnotations revisionModeloDeDatos)
         {
             _departamentoRepository = departamentoRepository;
             _revisionModeloDeDatos = revisionModeloDeDatos;
         }
 
-        public void Add(Departamento departamento)
+        public void Add(Departament departamento)
         {
             throw new NotImplementedException();
         }
 
-        public IEnumerable<Departamento> GetAll()
+        public IEnumerable<Departament> GetAll()
         {
             throw new NotImplementedException();
         }
 
-        public Departamento GetDepartamentById(int id)
+        public Departament GetDepartamentById(int id)
         {
             throw new NotImplementedException();
         }
 
-        public void Remove(Departamento departamento)
+        public void Remove(Departament departamento)
         {
             throw new NotImplementedException();
         }
 
-        public void Update(Departamento departamento)
+        public void Update(Departament departamento)
         {
             throw new NotImplementedException();
         }
 
-        public void ValidateModel(Departamento departamento)
+        public void ValidateModel(Departament departamento)
         {
             throw new NotImplementedException();
         }

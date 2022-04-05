@@ -1,6 +1,6 @@
 ﻿namespace CapaDeDominio
 {
-    public interface IDepartamento
+    public interface IDepartament
     {
         string Ciudad { get; set; }
         string Email { get; set; }

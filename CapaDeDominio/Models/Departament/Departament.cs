@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CapaDeDominio
 {
-    public class Departamento : IDepartamento
+    public class Departament : IDepartament
     {
         public int IdDepartamento { get; set; }
 
